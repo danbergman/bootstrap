@@ -1,5 +1,5 @@
 
-A lightweight pagination directive that is focused on ... providing pagination & will take care of visualising a pagination bar and enable / disable buttons correctly!
+A lightweight directive that is focused on providing pagination & will take care of visualising a pagination bar and enable / disable buttons correctly.
 
 ### Pagination Settings ###
 
